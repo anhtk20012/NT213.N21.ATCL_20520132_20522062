@@ -1,0 +1,4 @@
+flask==2.1.0
+wtforms
+weasyprint==50
+Flask-WeasyPrint==0.5.0
